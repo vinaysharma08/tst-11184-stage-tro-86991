@@ -68,7 +68,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'django.contrib.sites', "tuntun"
+    'django.contrib.sites', "tuntun", "teplez"
 ]
 LOCAL_APPS = [
     'home',
