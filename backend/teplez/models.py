@@ -1,7 +1,7 @@
 from django.conf import settings
 from django.db import models
-class Druple(models.Model):
+class World(models.Model):
     'Generated Model'
-    value88 = models.BigIntegerField()
+    countrycode = models.BigIntegerField()
 
 # Create your models here.
